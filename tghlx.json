@@ -7,14 +7,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "首页",
-        "国产区",
-        "AV区",
-        "欧美区",
-        "动漫区"
-      ]
+      "filterable": 0
     },
      {
       "key": "杏吧资源",
@@ -308,6 +301,7 @@
   ]
 
 }
+
 
 
 
