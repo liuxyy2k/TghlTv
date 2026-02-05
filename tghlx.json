@@ -16,6 +16,15 @@
         "动漫区"
       ]
     },
+     {
+      "key": "杏吧资源",
+      "name": "杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "豆瓣资源",
       "name": "豆瓣资源",
@@ -290,4 +299,5 @@
   ]
 
 }
+
 
