@@ -4,7 +4,7 @@
       "key": "黄色仓库",
       "name": "黄色仓库",
       "type": 1,
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -290,3 +290,4 @@
   ]
 
 }
+
