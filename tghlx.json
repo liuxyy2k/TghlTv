@@ -25,6 +25,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+     {
+      "key": "幸资源",
+      "name": "幸资源",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "豆瓣资源",
       "name": "豆瓣资源",
@@ -299,5 +308,6 @@
   ]
 
 }
+
 
 
