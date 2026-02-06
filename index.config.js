@@ -155,6 +155,8 @@ address: "https://yyzywcj.com/api.php/provide/vod/?ac=list&pg=1"},
 address: "https://heiliaozyapi.com/api.php/provide/vod"},
 {name: "豆豆资源",
 address: "https://api.douapi.cc/api.php/provide/vod/?ac=list"},
+{name: "奥斯卡资源",
+address: "https://aosikazy.com/api.php/provide/vod/?ac=list"},
 {name: "茅台采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
