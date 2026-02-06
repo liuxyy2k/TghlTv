@@ -126,15 +126,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-	{
-		"key": "apilj",
-		"name": "🪜辣椒",
-		"type": 3,
-		"api": "https://apilj.com/api.php/provide/vod/at/json/",
-		"searchable": 1,
-      	"quickSearch": 1,
-      	"filterable": 0
-	},
 	{"key":"php聚合","name":"PHP丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/php.php","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"PY聚合","name":"PY丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/py.php","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.33}},
 	{"key":"采集聚合","name":"采集丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","searchable":1,"style":{"type":"rect","ratio":1.33}},
@@ -398,6 +389,7 @@
   ]
 
 }
+
 
 
 
