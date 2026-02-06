@@ -137,6 +137,8 @@ address: "http://cj.rycjapi.com/api.php/provide/vod"},
 address: "https://api.xjzyapi.xyz/provide/vod"},
 {name: "👖裤佬丨杏吧丨采集",
 address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
+{name: "👖裤佬丨91丨麻豆",
+address: "https://91md.me/api.php/provide/vod/from/mdm3u8/"},
 {name: "👖裤佬丨茅台丨采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
