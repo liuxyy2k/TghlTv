@@ -128,7 +128,7 @@
     },
 	{"key":"php聚合","name":"PHP丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/php.php","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"PY聚合","name":"PY丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/py.php","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.33}},
-	{"key":"采集聚合","name":"采集丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","searchable":1,"style":{"type":"rect","ratio":1.33},
+	{"key":"采集聚合","name":"采集丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/cj/cjjh.php","searchable":1,"style":{"type":"rect","ratio":1.33}},
 	{"key":"JS聚合","name":"JS丨聚合","type":4,"api":"http://zhangqun1818.serv00.net/js.php","searchable":1,"style":{"type":"rect","ratio":1.33},"changeable":1},
 	{"key":"荐片JS","name":"荐片丨JS","type":3,"api":"https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js","style":{"type":"rect","ratio":1.33},"changeable":1}
   ],
@@ -387,6 +387,7 @@
   ]
 
 }
+
 
 
 
