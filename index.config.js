@@ -153,6 +153,8 @@ address: "http://chujia.cc/api.php/provide/vod/from/m3u8/"},
 address: "https://yyzywcj.com/api.php/provide/vod/?ac=list&pg=1"},
 {name: "黑料资源",
 address: "https://heiliaozyapi.com/api.php/provide/vod"},
+{name: "豆豆资源",
+address: "https://api.douapi.cc/api.php/provide/vod/?ac=list"},
 {name: "茅台采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
