@@ -125,7 +125,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }
+    },
+	{
+	  "key": "裤佬3Q",
+	  "name": "👖裤佬丨3Q丨影视",
+	  "type": 3,
+	  "api": "http://zhangqun1818.serv00.net:6628/?spider=3q影视",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 0
+	},
+	{
+	  "key": "裤佬苹果",
+	  "name": "👖裤佬丨苹果丨影视",
+	  "type": 3,
+	  "api": "http://zhangqun1818.serv00.net:6628/?spider=apple",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 0
+	},
   ],
   "lives": [
     {
@@ -382,6 +400,7 @@
   ]
 
 }
+
 
 
 
