@@ -133,6 +133,8 @@ address: "https://iqiyizyapi.com/api.php/provide/vod"},
 address: "https://cj.lziapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨如意丨采集",
 address: "http://cj.rycjapi.com/api.php/provide/vod"},
+{name: "👖裤佬丨小鸡丨采集",
+address: "https://api.xjzyapi.xyz/provide/vod"},
 {name: "👖裤佬丨茅台丨采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
