@@ -122,7 +122,7 @@ var index_config_default = {
     {name: "👖裤佬丨兔小贝丨少儿",
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
-  cms: {list: [
+cms: {list: [
 {name: "👖裤佬丨极速丨采集",
 address: "https://jszyapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨暴风丨采集",
@@ -135,6 +135,8 @@ address: "https://cj.lziapi.com/api.php/provide/vod"},
 address: "http://cj.rycjapi.com/api.php/provide/vod"},
 {name: "👖裤佬丨小鸡丨采集",
 address: "https://api.xjzyapi.xyz/provide/vod"},
+{name: "👖裤佬丨杏吧丨采集",
+address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
 {name: "👖裤佬丨茅台丨采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
