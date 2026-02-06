@@ -54,6 +54,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	  {
+      "key": "998",
+      "name": "998",
+      "type": 1,
+      "api": "https://www.saobi2.com/api.php/provide/vod/?ac=detail",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
      {
       "key": "香蕉资源",
       "name": "香蕉资源",
@@ -373,6 +382,7 @@
   ]
 
 }
+
 
 
 
