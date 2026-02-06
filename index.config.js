@@ -151,6 +151,8 @@ address: "https://apiyutu.com/api.php/provide/vod/"},
 address: "http://chujia.cc/api.php/provide/vod/from/m3u8/"},
 {name: "优优资源",
 address: "https://yyzywcj.com/api.php/provide/vod/?ac=list&pg=1"},
+{name: "黑料资源",
+address: "https://heiliaozyapi.com/api.php/provide/vod"},
 {name: "茅台采集",
 address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 ]},
