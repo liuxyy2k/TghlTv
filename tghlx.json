@@ -143,7 +143,8 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 0
-	},
+	}，
+	{"key":"裤佬哔哩直播","name":"裤佬丨哔哩丨直播","type":3,"api":"https://mpimg.cn/down.php/d18d26a80c0d820e716be81e51568488.py"},
   ],
   "lives": [
     {
@@ -400,6 +401,7 @@
   ]
 
 }
+
 
 
 
