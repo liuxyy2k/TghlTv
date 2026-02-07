@@ -171,6 +171,8 @@ address: "https://hsckzy888.com/api.php/provide/vod/at/json/"},
 address: "https://api.souavzyw.net/api.php/provide/vod/?ac=list"},
 {name: " 👗白狐资源",
 address: "https://api.souavzyw.net/api.php/provide/vod/?ac=list"},
+{name: " 👗9+9",
+address: "https://pan.meil.wang/f/QxF3/meilan.json"},
 {name: " 🍻番号资源",
 address: "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list"}
 ]},
