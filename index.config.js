@@ -122,7 +122,7 @@ var index_config_default = {
     {name: "兔小贝少儿",
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"},
    {name: "PHP聚合",
-      address: "http://zhangqun1818.serv00.net/php.php"},
+      address: "http://zhangqun1818.serv00.net/php.php"}
 ]},
 cms: {list: [
 {name: "极速采集",
