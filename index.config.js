@@ -136,7 +136,7 @@ address: "https://cj.lziapi.com/api.php/provide/vod"},
 {name: "如意采集",
 address: "http://cj.rycjapi.com/api.php/provide/vod"},
 {name: "茅台采集",
-address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
+address: "https://caiji.maotaizy.cc/api.php/provide/vod"},
 {name: "小鸡采集",
 address: "https://api.xjzyapi.xyz/provide/vod"},
 {name: "杏吧采集",
