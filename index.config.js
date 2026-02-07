@@ -124,7 +124,7 @@ var index_config_default = {
    {name: "PHP聚合",
       address: "http://zhangqun1818.serv00.net/php.php"},
    {name: "直播聚合",
-      address: "https://live.suancaihu.eu.org/?p=ghs&t=1770457579"}
+      address: "https://live.suancaihu.eu.org/api/platforms"}
 ]},
 cms: {list: [
 {name: "极速采集",
