@@ -120,7 +120,9 @@ var index_config_default = {
     {name: "凤凰FM",
       address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
     {name: "兔小贝少儿",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
+      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"},
+   {name: "PHP聚合",
+      address: "http://zhangqun1818.serv00.net/php.php"},
 ]},
 cms: {list: [
 {name: "极速采集",
@@ -133,6 +135,8 @@ address: "https://iqiyizyapi.com/api.php/provide/vod"},
 address: "https://cj.lziapi.com/api.php/provide/vod"},
 {name: "如意采集",
 address: "http://cj.rycjapi.com/api.php/provide/vod"},
+{name: "茅台采集",
+address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
 {name: "小鸡采集",
 address: "https://api.xjzyapi.xyz/provide/vod"},
 {name: "杏吧采集",
@@ -141,8 +145,6 @@ address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
 address: "https://91md.me/api.php/provide/vod/from/mdm3u8/"},
 {name: "影库资源",
 address: "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/"},
-{name: "猫源",
-address: "https://api.maozyapi.com/inc/apijson_vod.php"},
 {name: "色猫",
 address: "https://caiji.semaozy.net/inc/apijson_vod.php/"},
 {name: "玉兔",
@@ -156,9 +158,7 @@ address: "https://heiliaozyapi.com/api.php/provide/vod"},
 {name: "豆豆资源",
 address: "https://api.douapi.cc/api.php/provide/vod/?ac=list"},
 {name: "奥斯卡资源",
-address: "https://aosikazy.com/api.php/provide/vod/?ac=list"},
-{name: "茅台采集",
-address: "https://caiji.maotaizy.cc/api.php/provide/vod"}
+address: "https://aosikazy.com/api.php/provide/vod/?ac=list"}
 ]},
   alist: [
     {
