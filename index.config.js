@@ -124,7 +124,7 @@ var index_config_default = {
    {name: "PHP聚合",
       address: "http://zhangqun1818.serv00.net/php.php"},
    {name: "精品",
-      address: "https://www.jingpinx.com/api.php/provide/vod/?ac=list"}
+      address: "https://www.jingpinx.com/api.php/provide/vod/?ac=list"},
    {name: "91麻豆",
       address: "https://91md.me/api.php/provide/vod/"}
 ]},
