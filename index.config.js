@@ -123,8 +123,10 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"},
    {name: "PHP聚合",
       address: "http://zhangqun1818.serv00.net/php.php"},
-   {name: "直播聚合",
-      address: "https://live.suancaihu.eu.org/api/platforms"}
+   {name: "精品",
+      address: "https://www.jingpinx.com/api.php/provide/vod/?ac=list"}
+   {name: "91麻豆",
+      address: "https://91md.me/api.php/provide/vod/"}
 ]},
 cms: {list: [
 {name: "极速采集",
