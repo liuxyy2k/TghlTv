@@ -158,7 +158,11 @@ address: "https://heiliaozyapi.com/api.php/provide/vod"},
 {name: "豆豆资源",
 address: "https://api.douapi.cc/api.php/provide/vod/?ac=list"},
 {name: "奥斯卡资源",
-address: "https://aosikazy.com/api.php/provide/vod/?ac=list"}
+address: "https://aosikazy.com/api.php/provide/vod/?ac=list"},
+{name: "155资源",
+address: "https://155api.com/api.php/provide/vod/?ac=list"},
+{name: "番号资源",
+address: "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list"}
 ]},
   alist: [
     {
