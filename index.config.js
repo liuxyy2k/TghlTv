@@ -126,11 +126,62 @@ var index_config_default = {
    {name: " 🌧精品",
       address: "https://www.jingpinx.com/api.php/provide/vod/?ac=list"},
    {name: " 🌩91麻豆",
-      address: "https://91md.me/api.php/provide/vod/"}
+      address: "https://91md.me/api.php/provide/vod/"},
+   {name: " 🌩19采集",
+      address: "https://19q.cc/api.php/provide/vod"},
+//     {name: "中国丨大秀",
+// 		address: "https://learnpython.ggff.net/zgdxStymei"
+// 	},
+// 	{name: "美国丨大秀",
+// 		address: "https://learnpython.ggff.net/cam4"
+// 	},
+// 	{name: "俄国丨大秀",
+// 		address: "https://learnpython.ggff.net/elsdxStymei"
+// 	}, 
+// 	{name: "51丨吃瓜",
+// 		address: "https://learnpython.ggff.net/wycgStymei"
+// 	}, 
+// 	{name: "91丨吃瓜",
+// 		address: "https://learnpython.ggff.net/jycgStymei"
+// 	}, 
+// 	{name: "黑料丨吃瓜",
+// 		address: "https://learnpython.ggff.net/HLBDY"
+// 	}, 
+	{name: "139丨听书",
+		address: "http://zhangqun1818.serv00.net:5052/?sp=139fm多分类"
+	},
+	{name: "uaa丨听书",
+		address: "http://zhangqun1818.serv00.net:5052/?sp=uaa有声"
+	}, 
+// 	{name: "TPO丨爬虫",
+// 		address: "https://learnpython.ggff.net/ThePorn"
+// 	}, 
+	{name: "EPO丨爬虫",
+		address: "http://zhangqun1818.serv00.net:5052/?sp=epo"
+	},
+	{name: "推特丨爬虫",
+		address: "http://zhangqun1818.serv00.net:5052/?sp=推特"
+	}, 
+	{name: "酒曲丨爬虫",
+		address: "http://zhangqun1818.serv00.net:5052/?sp=九个区"
+	}, 
+// 	{name: "传媒丨爬虫",
+// 		address: "https://learnpython.ggff.net/XHSM"
+// 	}
 ]},
 cms: {list: [
 {name: " ⭐极速采集",
 address: "https://jszyapi.com/api.php/provide/vod"},
+{name: "51吃瓜",
+address: "http://192.168.0.101:8111/api.php/provide/vod"}, 
+{name: "51暗网",
+address: "http://192.168.0.101:8111/api.php/51aw/vod"}, 
+{name: "91视频",
+address: "http://192.168.0.101:8111/api.php/91sp/vod"}, 
+{name: "肉视频",
+address: "http://192.168.0.101:8111/api.php/rou/vod"}, 
+{name: "Jable",
+address: "http://192.168.0.101:8111/api.php/jable/vod"}, 
 {name: " 🌸暴风采集",
 address: "http://by.bfzyapi.com/api.php/provide/vod"},
 {name: " 🌺iQiYi采集",
@@ -173,9 +224,60 @@ address: "https://api.souavzyw.net/api.php/provide/vod/?ac=list"},
 address: "https://api.souavzyw.net/api.php/provide/vod/?ac=list"},
 {name: " 👗9+9",
 address: "https://pan.meil.wang/f/QxF3/meilan.json"},
+{name: " 👗番茄资源",
+address: "https://fqzy.me//api.php/provide/vod/?ac=list"},
+{name: " 👗ck资源",
+address: "https://ckbh1.xyz/api.php/provide/vod/?ac=list"},
 {name: " 🍻番号资源",
 address: "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list"}
 ]},
+m3u8cj: {
+	ykm3u8: [{
+		name: "360源",
+		url: "https://360zy.com/api.php/seaxml/vod/",
+		categories: [],
+		search: true
+	}],
+	doubanm3u8: [{
+		name: "豆瓣采集",
+		url: "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+		categories: [],
+		search: true
+	}],
+	hmm3u8: [{
+		name: "黑木耳",
+		url: "https://json02.heimuer.xyz/api.php/provide/vod/",
+		categories: [],
+		search: true
+	}],
+	clm3u8: [{
+		name: "暴风",
+		url: "https://bfzyapi.com/api.php/provide/vod/",
+		categories: [],
+		search: true
+	}],
+	askm3u8: [{
+		name: "魔都",
+		url: "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+		search: true
+	}],
+	sngm3u8: [{
+		name: "ikun",
+		url: "https://ikunzyapi.com/api.php/provide/vod/",
+		search: true
+	}],
+	ptm3u8: [{
+		name: "非凡",
+		url: "http://api.ffzyapi.com/api.php/provide/vod/",
+		search: true
+	}],
+	swm3u8: [{
+		name: "量子",
+		url: "https://cj.lziapi.com/api.php/provide/vod/",
+		categories: [],
+		search: true
+	}]
+},
   alist: [
     {
       name: "🐉神族九帝",
@@ -186,12 +288,12 @@ address: "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list"}
       server: "https://ali.liucn.repl.co"
     },
      {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      name: "小雅",
+      server: "http://alist.xiaoya.pro"
     },
     {
-      "name": "一只魚",
-      "server": "https://vtok.pp.ua/"
+      name: "一只魚",
+      server: "https://vtok.pp.ua/"
     }
   ],
   color: [
