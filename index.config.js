@@ -68,12 +68,7 @@ var index_config_default = {
     autoPush: true
   },
   t4: {
-    list: [
-      {
-        name: "AVdb",
-        address: "https://avdbapi.com/api.php/provide1/vod/"
-      }
-    ]
+    list: []
   },
   cms: {
     list: []
