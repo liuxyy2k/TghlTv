@@ -58,7 +58,12 @@ var index_config_default = {
   },
   tgchannel: {},
   sites: {
-    list: []
+    list: [
+      {
+        name: "AVdb",
+        address: "https://avdbapi.com/api.php/provide/vod/"
+      }
+    ]
   },
   pans: {
     list: []
